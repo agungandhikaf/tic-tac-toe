@@ -4,7 +4,9 @@
 To start the game, run:
 
 python3 tttgame.py
+
 or you can look for the demo:
+https://youtu.be/UCDNDcYu9w0
 
 
 ## Screenshot
