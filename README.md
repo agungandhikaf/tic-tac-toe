@@ -1,5 +1,8 @@
 # Tugas Akhir Matakuliah Kecerdasan Buatan
 ### Game Tic-Tac-Toe with Minimax Algorithm
+Agung Andhika Firdiansyah (180535632571)
+
+
 
 To start the game, run:
 
